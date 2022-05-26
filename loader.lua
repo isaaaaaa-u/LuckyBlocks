@@ -157,10 +157,10 @@ Tab:AddButton({
 			end
 		end
 	OrionLib:MakeNotification({
-		Name = "Sirius",
+		Name = "GUI",
 		Content = "Killed everyone ;)",
 		Image = "rbxassetid://4483345998",
-		Time = 5
+		Time = 3
 	})
 	end    
 })
@@ -311,13 +311,13 @@ Tab4:AddButton({
 Tab4:AddLabel("Made by isaaaaa#0001")
 
 OrionLib:MakeNotification({
-	Name = "Sirius",
+	Name = "GUI",
 	Content = "Successfully loaded GUI",
 	Image = "rbxassetid://4483345998",
 	Time = 5
 })
 OrionLib:MakeNotification({
-	Name = "Sirius",
+	Name = "GUI",
 	Content = "Copied link to the discord server!",
 	Image = "rbxassetid://4483345998",
 	Time = 5
